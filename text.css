@@ -1,0 +1,118 @@
+
+
+#nome{
+    
+    height: 30px;
+    width: 300px;
+    border: 3px solid rgb(255, 136, 100);
+}
+
+#idade{
+    height: 30px;
+    width: 300px;
+    border: 3px solid rgb(255, 136, 100);
+
+}
+#botao{
+    border: none;
+    
+    padding: 9px;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 50px;
+    position: relative;
+    box-sizing: border-box;
+    cursor: pointer;
+    transition: all 400ms ease;
+}
+
+
+.estilo{
+    
+   background-color: rgb(255, 168, 168);
+
+}
+.estilo:hover {
+   background: rgba(224, 197, 197, 0);
+   color: rgb(255, 168, 168);
+   box-shadow: inset 0 0 0 3px rgb(255, 168, 168);
+}
+
+#num1{
+    height: 30px;
+    width: 300px;
+    border: 3px solid rgb(255, 136, 100);
+
+}
+#num2{
+    height: 30px;
+    width: 300px;
+    border: 3px solid rgb(255, 136, 100);
+
+}
+
+#adicao{
+    border: none;
+    
+    padding: 9px;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 50px;
+    position: relative;
+    box-sizing: border-box;
+    cursor: pointer;
+    transition: all 400ms ease;
+
+}
+
+#multiplicacao{
+    border: none;
+    
+    padding: 9px;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 50px;
+    position: relative;
+    box-sizing: border-box;
+    cursor: pointer;
+    transition: all 400ms ease;
+
+}
+
+#subtracao{
+    border: none;
+    
+    padding: 9px;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 50px;
+    position: relative;
+    box-sizing: border-box;
+    cursor: pointer;
+    transition: all 400ms ease;
+
+}
+
+#divisao{
+    border: none;
+    
+    padding: 9px;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 50px;
+    position: relative;
+    box-sizing: border-box;
+    cursor: pointer;
+    transition: all 400ms ease;
+
+}
+.botao{
+    background-color: rgb(255, 168, 168);
+
+}
+.botao:hover{
+    background: rgba(224, 197, 197, 0);
+    color: rgb(255, 168, 168);
+    box-shadow: inset 0 0 0 3px rgb(255, 168, 168);
+
+}
